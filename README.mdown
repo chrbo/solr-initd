@@ -50,4 +50,8 @@ To Do's
 -------------
 Allow parameters to specify what's in the config file, and use the config as a default.
 
+--------------------------------------------------------------------------
+Many thanks to https://github.com/jbusby who created the initial version!
+--------------------------------------------------------------------------
+
 
